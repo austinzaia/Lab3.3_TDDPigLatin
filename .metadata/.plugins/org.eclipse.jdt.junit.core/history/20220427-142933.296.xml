@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PigLatinTest" project="Lab3.3_TDDPigLatin" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="PigLatinTest" time="0.045" uniqueid="[engine:junit-jupiter]/[class:PigLatinTest]">
+    <testcase name="test1" classname="PigLatinTest" time="0.041" displayname="test1()" uniqueid="[engine:junit-jupiter]/[class:PigLatinTest]/[method:test1()]"/>
+    <testcase name="test2" classname="PigLatinTest" time="0.002" displayname="test2()" uniqueid="[engine:junit-jupiter]/[class:PigLatinTest]/[method:test2()]"/>
+  </testsuite>
+</testrun>

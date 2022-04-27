@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PigLatinTest" project="Lab3.3_TDDPigLatin" tests="9" started="9" failures="0" errors="0" ignored="0">
+  <testsuite name="PigLatinTest" time="0.066" uniqueid="[engine:junit-jupiter]/[class:PigLatinTest]">
+    <testcase name="test1" classname="PigLatinTest" time="0.045" displayname="test1()" uniqueid="[engine:junit-jupiter]/[class:PigLatinTest]/[method:test1()]"/>
+    <testcase name="test2" classname="PigLatinTest" time="0.001" displayname="test2()" uniqueid="[engine:junit-jupiter]/[class:PigLatinTest]/[method:test2()]"/>
+    <testcase name="test3" classname="PigLatinTest" time="0.002" displayname="test3()" uniqueid="[engine:junit-jupiter]/[class:PigLatinTest]/[method:test3()]"/>
+    <testcase name="test4" classname="PigLatinTest" time="0.002" displayname="test4()" uniqueid="[engine:junit-jupiter]/[class:PigLatinTest]/[method:test4()]"/>
+    <testcase name="test5" classname="PigLatinTest" time="0.002" displayname="test5()" uniqueid="[engine:junit-jupiter]/[class:PigLatinTest]/[method:test5()]"/>
+    <testcase name="test6" classname="PigLatinTest" time="0.001" displayname="test6()" uniqueid="[engine:junit-jupiter]/[class:PigLatinTest]/[method:test6()]"/>
+    <testcase name="test7" classname="PigLatinTest" time="0.001" displayname="test7()" uniqueid="[engine:junit-jupiter]/[class:PigLatinTest]/[method:test7()]"/>
+    <testcase name="test8" classname="PigLatinTest" time="0.001" displayname="test8()" uniqueid="[engine:junit-jupiter]/[class:PigLatinTest]/[method:test8()]"/>
+    <testcase name="test9" classname="PigLatinTest" time="0.001" displayname="test9()" uniqueid="[engine:junit-jupiter]/[class:PigLatinTest]/[method:test9()]"/>
+  </testsuite>
+</testrun>
